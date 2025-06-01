@@ -15,7 +15,7 @@ When I'm not working on distributed systems or automation, you’ll probably fin
 ## 🛠️ Core Skills
 
 - **Languages:** Python, PHP, IaC
-- **Tech:** Large Language Models (LLMs), AIOps, Systems Architecture, Automation
+- **Tech:** Large Language Models (LLMs), AIOps, Systems Architecture and Design, Automation
 
 ---
 
