@@ -24,4 +24,3 @@ When I'm not working on distributed systems or automation, you’ll probably fin
 - [LinkedIn](https://www.linkedin.com/in/dalton-price-a505a155/)
 - 📧 daltonjprice@gmail.com
 
----”
